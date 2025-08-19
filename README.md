@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Sai Dattatreya Nayak  
 
-<!--
-**saidnayak/saidnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science (AI & ML)  
+💡 Passionate about Artificial Intelligence, Machine Learning & Deep Learning  
+🔬 Aspiring MS student | Interested in Research & Innovation  
+💻 Love solving problems through code and data  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack  
+- **Languages**: Python, C, C++, Java  
+- **AI/ML**: TensorFlow, PyTorch, Scikit-Learn, OpenCV  
+- **Databases**: MySQL, MongoDB  
+- **Other Tools**: Git, Docker, Linux  
+
+---
+
+## 🌱 Current Focus  
+- Building AI/ML projects (Computer Vision, NLP, Data Science)  
+- Competitive coding & problem solving  
+- Preparing for MS applications  
+
+---
+
+## 📫 Connect with Me  
+- [Email](mailto:saidattatreyanayak08@gmail.com)  
